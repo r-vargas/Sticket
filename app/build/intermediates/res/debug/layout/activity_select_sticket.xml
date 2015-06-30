@@ -1,0 +1,169 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@drawable/select_sticket_background"
+    android:id="@+id/select_sticket"
+    tools:context="com.example.roberto.sticket.selectSticketActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="115dp"
+            android:orientation="horizontal"
+            android:id="@+id/firstRowButtons"
+            >
+
+            <Button
+                android:id="@+id/one"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="1"
+                android:textSize="50dp"
+                />
+
+            <Button
+                android:textSize="50dp"
+                android:layout_width="100dp"
+                android:id="@+id/two"
+                android:layout_height="100dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="2"
+                />
+
+            <Button
+                android:textSize="50dp"
+                android:layout_width="110dp"
+                android:id="@+id/three"
+                android:layout_height="100dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="2"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:orientation="horizontal"
+            android:id="@+id/secondRowButtons"
+            >
+            <Button
+                android:textSize="50dp"
+                android:id="@+id/four"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="4"
+                />
+            <Button
+                android:textSize="50dp"
+                android:id="@+id/five"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="5"
+                />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+    <!--
+            <TextView
+        android:text="Select your Sticket!"
+        android:textSize="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+                                <Button
+                android:text="5"
+                android:textSize="50dp"
+                android:id="@+id/temperature"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="5"
+                />
+
+            <Button
+                android:text="6"
+                android:textSize="50dp"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:id="@+id/wc"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="6"
+                />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:text="7"
+                android:textSize="50dp"
+                android:id="@+id/entryways"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="7"
+                />
+            <Button
+                android:text="8"
+                android:textSize="50dp"
+                android:id="@+id/electrical"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="8"
+                />
+
+            <Button
+                android:text="9"
+                android:textSize="50dp"
+                android:id="@+id/janitorial"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:onClick="onClick"
+                android:clickable="true"
+                android:tag="9"
+                />
+
+
+        </LinearLayout>
+
+                        --><!-- From: file:/Users/Roberto/Dropbox/ME310%2014-15%20Team%204/Spring/Sticket/app/src/main/res/layout/activity_select_sticket.xml -->

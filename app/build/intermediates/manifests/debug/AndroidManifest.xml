@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.roberto.sticket"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/little_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="com.example.roberto.sticket.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.TicketCreationActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_ticket_creation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.ListSticketsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_list_stickets"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.reportActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_report"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.splashActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="MPSS Stickets"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.SticketMapActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_sticket_map"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.selectSticketActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_select_sticket"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.ViewSticket"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_view_sticket"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.roberto.sticket.cameraPreviewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_camera_preview"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

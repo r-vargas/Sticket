@@ -1,0 +1,244 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@drawable/sticket_status_zero"
+    android:id="@+id/view_sticket_layout"
+    tools:context="com.example.roberto.sticket.ViewSticket">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="40dp"
+        android:paddingLeft="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/name"
+        android:text="username"
+        android:textColor="#707173"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:paddingLeft="10dp"
+        android:id="@+id/date"
+        android:text="date"
+        android:textColor="#707173"
+        android:textSize="15dp"
+        android:layout_alignParentLeft="true"/>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_below="@id/date"
+    android:paddingTop="15dp"
+    android:id="@+id/first_row">
+
+    <ImageView
+        android:id="@+id/description_image"
+        android:layout_width="110dp"
+        android:layout_height="90dp"
+        android:layout_alignParentLeft="true"/>
+
+
+        <RelativeLayout
+            android:id="@+id/mapWrapper"
+            android:paddingLeft="7dp"
+            android:paddingTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            >
+
+            <ImageView
+                android:id="@+id/sticketMap"
+                android:layout_width="150dp"
+                android:layout_height="85dp"
+                android:src="@drawable/floor_plan_outline"
+                />
+        </RelativeLayout>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="128dp"
+        android:paddingLeft="5dp"
+        android:layout_below="@+id/date">
+
+    <ImageView
+        android:id="@+id/problem_image"
+        android:src="@drawable/no_image_background"
+        android:layout_width="100dp"
+        android:layout_height="76dp"
+        />
+
+    <TextView
+        android:text="TEST"
+        android:paddingLeft="10dp"
+        android:paddingTop="2dp"
+        android:layout_width="176dp"
+        android:layout_height="100dp"
+        android:gravity="start"
+        android:id="@+id/notes"
+        />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+<!--
+
+    <TextView
+        android:layout_alignTop="@id/problem_image"
+        android:paddingTop="60dp"
+        android:paddingLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:textColor="#ffffff"
+        android:text="Image Loading... "
+        android:id="@+id/waiting"
+        android:textSize="10dp"/>
+
+    <TextView
+        android:layout_below="@id/problem_image"
+        android:id="@+id/peopleInvolved"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:text="People Involved:"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/radio_top"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/peopleInvolved">
+
+
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/numberInvolved"
+            android:saveEnabled="false">
+
+            <RadioButton android:id="@+id/me"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Me"
+                android:tag="0"
+                android:clickable="false"
+                />
+
+            <RadioButton android:id="@+id/lt5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="&#60;5"
+                android:clickable="false"
+                android:tag="1"/>
+
+            <RadioButton android:id="@+id/gt5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:text="&#62;5"
+                android:tag="2"/>
+            <RadioButton android:id="@+id/gt20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:text="&#62;20"
+                android:tag="3"/>
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Problem Description"
+        android:textSize="15dp"
+        android:id="@+id/description_text"
+        android:layout_below="@+id/radio_top"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Location in Building"
+        android:textSize="15dp"
+        android:id="@+id/map_label"
+        android:layout_below="@+id/notes"/>
+
+<LinearLayout
+android:orientation="horizontal"
+android:id="@+id/radio2"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:layout_alignParentLeft="true"
+android:layout_alignTop="@+id/radio_top">
+
+<TextView
+    android:layout_gravity="center_vertical"
+    android:layout_width="wrap_content"
+    android:text="Severity:          "
+    android:layout_height="wrap_content" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:text="Minimal"
+    android:layout_gravity="center_vertical"
+    android:layout_height="wrap_content" />
+
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center_vertical"
+    android:id="@+id/severity">
+    <RadioButton android:id="@+id/low"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:tag="1"
+        />
+    <RadioButton android:id="@+id/lowMed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:tag="2"
+        />
+    <RadioButton android:id="@+id/highMed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:tag="3"
+        />
+    <RadioButton android:id="@+id/high"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:tag="4"
+        />
+</RadioGroup>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:text="Maximum"
+    android:layout_gravity="center_vertical"
+    android:layout_height="wrap_content" />
+</LinearLayout>
+
+--><!-- From: file:/Users/Roberto/Dropbox/ME310%2014-15%20Team%204/Spring/Sticket/app/src/main/res/layout/activity_view_sticket.xml -->

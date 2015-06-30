@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res" >
+            <file
+                name="app_logo"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/app_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bar_five"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/bar_five.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bar_four"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/bar_four.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bar_one"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/bar_one.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bar_three"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/bar_three.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bar_two"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/bar_two.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="building_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/building_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="capture_button"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/capture_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="cleaning_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/cleaning_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="door_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/door_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="electrical_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/electrical_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="feedback_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/feedback_background.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="internet_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/internet_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="lighting_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/lighting_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="little_logo"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/little_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="loading_screen"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/loading_screen.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="main_menu_revised"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/main_menu_revised.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="manutencoop_logo"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/manutencoop_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="marker_1"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/marker_1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="marker_2"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/marker_2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="marker_3"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/marker_3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="no_image_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/no_image_background.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="plumbing_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/plumbing_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="send_button"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/send_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_five"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/sticket_number_five.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_four"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/sticket_number_four.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_one"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/sticket_number_one.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_three"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/sticket_number_three.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_two"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/sticket_number_two.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="temperature_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/temperature_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="wc_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/wc_problem.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="your_stickets"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-hdpi/your_stickets.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_preview_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/camera_preview_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="feedback_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/feedback_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="floor_plan_outline"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/floor_plan_outline.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="floor_plan_outline_two"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/floor_plan_outline_two.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="loading_screen"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/loading_screen.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="login_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/login_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="login_expe_one"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/login_expe_one.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="main_menu"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/main_menu.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="main_page"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/main_page.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="manutencoop_logo"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/manutencoop_logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="next_button_page"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/next_button_page.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="report_problem"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/report_problem.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="report_problem_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/report_problem_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="select_sticket_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/select_sticket_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sent_receipt"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sent_receipt.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="splash_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/splash_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_five"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_number_five.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_four"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_number_four.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_one"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_number_one.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_three"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_number_three.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_number_two"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_number_two.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_status_four"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_status_four.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_status_one"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_status_one.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_status_three"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_status_three.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_status_two"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_status_two.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="sticket_status_zero"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/sticket_status_zero.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ticket_creation_background"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/ticket_creation_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="view_sticket"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/view_sticket.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="your_stickets"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/drawable-xxhdpi/your_stickets.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_camera_preview"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_camera_preview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_list_stickets"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_list_stickets.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_report"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_report.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_select_sticket"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_select_sticket.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_sticket_map"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_sticket_map.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_ticket_creation"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_ticket_creation.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_view_sticket"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/activity_view_sticket.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="send_receipt"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/send_receipt.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splash"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/layout/splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="camera_preview"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/camera_preview.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="list_stickets"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/list_stickets.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="report"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/report.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="select_sticket"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/select_sticket.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="sticket_map"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/sticket_map.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ticket_creation"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/ticket_creation.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="view_sticket"
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/menu/view_sticket.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_sticket_map" >SticketMapActivity
+                </string>
+                <string name="title_activity_view_sticket" >ViewSticket
+                </string>
+                <string name="title_activity_report" >reportActivity
+                </string>
+                <string name="title_activity_list_stickets" >ListSticketsActivity
+                </string>
+                <string name="title_activity_camera_preview" >cameraPreviewActivity
+                </string>
+                <string name="title_activity_splash" >splashActivity
+                </string>
+                <string name="app_name" >MPSS Stickets
+                </string>
+                <string name="title_splash_screen" >SplashScreen
+                </string>
+                <string name="title_activity_login" >LoginActivity
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_ticket_creation" >TicketCreationActivity
+                </string>
+                <string name="lessThanFive" >&lt;5
+                </string>
+                <string name="title_activity_select_sticket" >selectSticketActivity
+                </string>
+            </file>
+            <file
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/generated/res/rs/debug" />
+        <source path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/src/debug/res" />
+    </dataSet>
+
+</merger>

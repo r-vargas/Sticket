@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/jackson-core-2.3.2-7891f885a594064f3e081f3d5346dd017cf96aaa.jar"
+        jar="/Users/Roberto/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/jackson-databind-2.3.2-b734f5e8f266ef1a34f60d029cb5b501c1942502.jar"
+        jar="/Users/Roberto/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/org.restlet-b86d07b0f721da0514f4507ef08c09049e48afa3.jar"
+        jar="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/libs/org.restlet.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ad5c4df5939a33f2de70bd430461bf78474b587a"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-2.0.0.M1-76edfcaa3d96c000509e00f1908689915716f2da.jar"
+        jar="/Users/Roberto/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/2.0.0.M1/6abb1e22445a4e4571c74632804e4179b43d82b5/spring-android-rest-template-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6abb1e22445a4e4571c74632804e4179b43d82b5"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-54d76ecaa72accabb740bdacc8ec4fc6f56560c4.jar"
+        jar="/Users/Roberto/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/org.restlet.ext.json-c934c6a72803a1c28c9459a18d26231ba38486be.jar"
+        jar="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/libs/org.restlet.ext.json.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d648980d1db5cc279f8644d143752cfa882d1e1f"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/org.json-a5109c07e7a1c59d75ce6bedb48471dc875e268f.jar"
+        jar="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/libs/org.json.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa0e3bef5e0c3660a3e69529a3d8b71b4ecd291a"/>
+    <item
+        dex="/Users/Roberto/Dropbox/ME310 14-15 Team 4/Spring/Sticket/app/build/intermediates/pre-dexed/debug/spring-android-core-2.0.0.M1-8639e4f318b4e3d66dc04df430db0a8d99767214.jar"
+        jar="/Users/Roberto/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/2.0.0.M1/26b2d3262a0c5f8de663deeb6481d132d871fffa/spring-android-core-2.0.0.M1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="26b2d3262a0c5f8de663deeb6481d132d871fffa"/>
+
+</pre-dex-items>
